@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm Augusto!👋
 
-<!--
-**Souza-Augusto/Souza-Augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer. I have been working exclusively with mobile development since 2022 with React-Native.
 
-Here are some ideas to get you started:
+### My Current tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📲 Front-end Mobile with React Native
+
+🛠️ Typescript/Javascript
+
+🧰 And more...
+
+.
+
+💬 Find me elsewhere
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-souza-b20b4b234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqI3Ze9DUQ3G%2By%2FAK1rJIRA%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+![Souza-Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souza-Augusto&show_icons=true&theme=radical)
+
+### My current tools
+
+<div style="display: inline_block"><br/>
+<Img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<Img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<Img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
