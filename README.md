@@ -1,6 +1,6 @@
 ### Hi, I'm Augusto!👋
 
-I’m a Software Engineer. I have been working exclusively with mobile development since 2022 with React-Native.
+I’m a Developer. I have been working exclusively with mobile development since 2022 with React-Native.
 
 ### My Current tools
 
