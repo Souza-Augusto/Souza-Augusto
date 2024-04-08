@@ -7,7 +7,7 @@ I’m a Developer. I have been working exclusively with mobile development since
 
 📲 Front-end Mobile with React Native
 
-🛠️ Typescript/Javascript
+🛠️ Typescript/Javascript/Dart
 
 🧰 And more...
 
